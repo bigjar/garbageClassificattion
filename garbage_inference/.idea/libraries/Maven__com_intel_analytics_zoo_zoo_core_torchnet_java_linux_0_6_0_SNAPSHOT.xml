@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.intel.analytics.zoo:zoo-core-torchnet-java-linux:0.6.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/zoo-core-torchnet-java-linux/0.6.0-SNAPSHOT/zoo-core-torchnet-java-linux-0.6.0-20190807.030514-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/zoo-core-torchnet-java-linux/0.6.0-SNAPSHOT/zoo-core-torchnet-java-linux-0.6.0-20190807.030514-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/zoo-core-torchnet-java-linux/0.6.0-SNAPSHOT/zoo-core-torchnet-java-linux-0.6.0-20190807.030514-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

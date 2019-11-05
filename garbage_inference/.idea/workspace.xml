@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e2badf5-3002-48c5-9f81-aebb6c7c5c03" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/garbageClassfication/StreamingJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="652">
+              <caret line="79" column="9" lean-forward="true" selection-start-line="79" selection-end-line="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190827.185601-27-sources.jar!/com/intel/analytics/zoo/pipeline/inference/OpenVinoInferenceSupportive.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-16">
+              <caret line="464" column="19" selection-start-line="464" selection-start-column="8" selection-end-line="464" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>java.lang.UnsatisfiedLinkError</find>
+      <find>inputShape</find>
+      <find>67</find>
+      <find>90</find>
+      <find>bando</find>
+      <find>meanValues</find>
+      <find>inputStream</find>
+      <find>savedModelBytes</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/garbageClassfication/GarbageClassificationInferenceModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/garbageClassfication/ImagePreProcess.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/garbageClassfication/StreamingJob.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Flink Quickstart Job" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Flink Quickstart Job" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Flink Quickstart Job" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.apache.flink:flink-streaming-java_2.11:1.8.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="285" />
+    <option name="y" value="223" />
+    <option name="width" value="2141" />
+    <option name="height" value="1159" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wiki-edits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="garbage_classfication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wiki-edits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="garbage_classfication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wiki-edits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="garbage_classfication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wiki-edits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="garbage_classfication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wiki-edits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="garbage_classfication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="garbageClassfication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wiki-edits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="garbage_classfication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wiki-edits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="garbage_classfication" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wiki-edits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamingJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="IMAGE_MODEL_PACKAGE_PATH" value="$PROJECT_DIR$/../aa/saved_model.tar.gz" />
+        <env name="IMAGE_INPUT_PATH" value="$PROJECT_DIR$/../usage/inference" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="garbageClassfication.StreamingJob" />
+      <module name="garbage_calssfication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="garbageClassfication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamingJob" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e2badf5-3002-48c5-9f81-aebb6c7c5c03" name="Default Changelist" comment="" />
+      <created>1566220884327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566220884327</updated>
+      <workItem from="1566220885632" duration="49000" />
+      <workItem from="1566220955592" duration="2073000" />
+      <workItem from="1566263249282" duration="1586000" />
+      <workItem from="1566554359832" duration="13004000" />
+      <workItem from="1566783977253" duration="2776000" />
+      <workItem from="1566788867774" duration="38000" />
+      <workItem from="1566788915495" duration="1090000" />
+      <workItem from="1566790101122" duration="6206000" />
+      <workItem from="1566801844108" duration="27671000" />
+      <workItem from="1566946190342" duration="932000" />
+      <workItem from="1566952464234" duration="7562000" />
+      <workItem from="1567003612504" duration="19000" />
+      <workItem from="1567003654150" duration="16000" />
+      <workItem from="1567003682238" duration="2539000" />
+      <workItem from="1567006533345" duration="147000" />
+      <workItem from="1567006715675" duration="3973000" />
+      <workItem from="1567144653789" duration="347000" />
+      <workItem from="1567145921026" duration="6663000" />
+      <workItem from="1567386394375" duration="1147000" />
+      <workItem from="1567387693419" duration="2049000" />
+      <workItem from="1567474490481" duration="2415000" />
+      <workItem from="1567781687635" duration="1549000" />
+      <workItem from="1567783576957" duration="1082000" />
+      <workItem from="1570001887743" duration="3829000" />
+      <workItem from="1570528213577" duration="598000" />
+      <workItem from="1570583539204" duration="9000" />
+      <workItem from="1572226650845" duration="885000" />
+      <workItem from="1572315713100" duration="2650000" />
+      <workItem from="1572487428580" duration="2468000" />
+      <workItem from="1572505706305" duration="565000" />
+      <workItem from="1572572090266" duration="2692000" />
+      <workItem from="1572597992565" duration="4167000" />
+      <workItem from="1572835259302" duration="693000" />
+      <workItem from="1572915939966" duration="4928000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="108417000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1417" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1749004" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="3" weight="0.24964234" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.21578947" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7367668" weight="0.55921054" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" visible="true" weight="0.19906323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="LuaCheck" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.71244633" weight="0.023076924" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.26323318" side_tool="true" weight="0.54605263" />
+      <window_info anchor="bottom" id="Tail" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49928468" weight="0.32894737" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190827.185601-27-sources.jar!/com/intel/analytics/zoo/pipeline/inference/OpenVinoInferenceSupportive.scala</url>
+          <line>479</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/garbageClassfication/StreamingJob.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/wiki_edits$StreamingJob.ic" NAME="StreamingJob Coverage Results" MODIFIED="1572829573109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>garbageClassfication.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>ComponentSampleModel sampleModel = (ComponentSampleModel)outputImage.getData().sampleModel;
+sampleModel.getBandOffsets()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.awt.image.ComponentSampleModel</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outputImage.getData().b</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outputImage.getData().sampleModel.getNumBands()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>image.getRGB(0,0) &gt;&gt; 8 &amp; 0xff</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outputImage.getRGB(1,0) &gt;&gt; 8 &amp; 0xff</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outputImage.getRGB(1,0) &gt;&gt; 16 &amp; 0xff</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outputImage.getRGB(0,0) &gt;&gt; 24 &amp; 0xff</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outputImage.getRGB(0,0) &amp; 0xff</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outputImage.getRGB(0,0) &gt;&gt; 8 &amp; 0xff</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/collection/generic/GenericCompanion.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/collection/TraversableOnce.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="321" column="6" selection-start-line="321" selection-start-column="6" selection-end-line="321" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/tianchi/garbage_image_util/1.0-SNAPSHOT/garbage_image_util-1.0-SNAPSHOT.jar!/com/alibaba/tianchi/garbage_image_util/IdLabel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/tianchi/garbage_image_util/1.0-SNAPSHOT/garbage_image_util-1.0-SNAPSHOT.jar!/com/alibaba/tianchi/garbage_image_util/ImageData.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190825.192455-26-sources.jar!/com/intel/analytics/zoo/pipeline/inference/InferenceModelFactory.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="100" column="36" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/io/DataInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="445" column="26" lean-forward="true" selection-start-line="445" selection-start-column="26" selection-end-line="445" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0-sources.jar!/org/apache/flink/streaming/api/datastream/DataStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="1216" column="29" selection-start-line="1216" selection-start-column="29" selection-end-line="1216" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Float.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="849" column="31" selection-start-line="849" selection-start-column="31" selection-end-line="849" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-SNAPSHOT.jar!/com/intel/analytics/zoo/feature/common/ChainedPreprocessing.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.0/hadoop-common-2.7.0.jar!/org/apache/hadoop/fs/FileSystem.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="388" column="29" selection-start-line="388" selection-start-column="29" selection-end-line="388" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/tianchi/garbage_image_util/1.0-SNAPSHOT/garbage_image_util-1.0-SNAPSHOT.jar!/com/alibaba/tianchi/garbage_image_util/RunMain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/tianchi/garbage_image_util/1.0-SNAPSHOT/garbage_image_util-1.0-SNAPSHOT.jar!/com/alibaba/tianchi/garbage_image_util/DebugFlatMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190825.192455-26-sources.jar!/com/intel/analytics/zoo/feature/image/ImagePixelBytesToMat.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190825.192455-26-sources.jar!/com/intel/analytics/zoo/feature/image/ImageBytesToMat.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+          <folding>
+            <element signature="e#653#683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/bigdl/bigdl-SPARK_2.4/0.9.0/bigdl-SPARK_2.4-0.9.0.jar!/com/intel/analytics/bigdl/dlframes/DLImageReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190825.192455-26-sources.jar!/com/intel/analytics/zoo/feature/python/PythonImageFeature.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190825.192455-26-sources.jar!/com/intel/analytics/zoo/feature/image/ImageResize.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/bigdl/bigdl-SPARK_2.4/0.9.0/bigdl-SPARK_2.4-0.9.0.jar!/com/intel/analytics/bigdl/transform/vision/image/ImageFeature.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190825.192455-26-sources.jar!/com/intel/analytics/zoo/pipeline/inference/AbstractModel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190825.192455-26-sources.jar!/com/intel/analytics/zoo/pipeline/inference/OpenVINOModel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/native.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190825.192455-26-sources.jar!/com/intel/analytics/zoo/pipeline/inference/OpenVinoInferenceSupportive.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190825.192455-26-sources.jar!/com/intel/analytics/zoo/pipeline/inference/JTensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="109" column="36" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/awt/Graphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13305">
+          <caret line="920" column="28" selection-start-line="920" selection-start-column="28" selection-end-line="920" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190825.192455-26-sources.jar!/com/intel/analytics/zoo/pipeline/inference/AbstractInferenceModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="86" column="10" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
+          <folding>
+            <element signature="e#1168#1169#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1532#1533#0" expanded="true" />
+            <element signature="e#1561#1562#0" expanded="true" />
+            <element signature="e#5056#5057#0" expanded="true" />
+            <element signature="e#5090#5091#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190825.192455-26-sources.jar!/com/intel/analytics/zoo/pipeline/nnframes/NNImageReader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="171" column="6" selection-start-line="171" selection-start-column="6" selection-end-line="171" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190825.192455-26-sources.jar!/com/intel/analytics/zoo/pipeline/inference/InferenceModel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3630">
+          <caret line="264" column="6" selection-start-line="264" selection-start-column="6" selection-end-line="264" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/tianchi/garbage_image_util/1.0-SNAPSHOT/garbage_image_util-1.0-SNAPSHOT.jar!/com/alibaba/tianchi/garbage_image_util/ImageDirSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar!/sun/awt/image/JPEGImageDecoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/awt/image/BufferedImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12450">
+          <caret line="878" column="42" selection-start-line="878" selection-start-column="42" selection-end-line="878" selection-end-column="42" />
+          <folding>
+            <element signature="e#34806#34807#0" expanded="true" />
+            <element signature="e#34838#34839#0" expanded="true" />
+            <element signature="e#37710#37711#0" expanded="true" />
+            <element signature="e#37786#37787#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/awt/image/ComponentSampleModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7485">
+          <caret line="538" column="8" selection-start-line="538" selection-start-column="8" selection-end-line="538" selection-end-column="8" />
+          <folding>
+            <element signature="e#20608#20609#0" expanded="true" />
+            <element signature="e#20657#20658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/awt/image/WritableRaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="48" column="40" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190827.185601-27.jar!/com/intel/analytics/zoo/feature/image/ImageSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/garbageClassfication/BatchJob.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190827.185601-27.jar!/com/intel/analytics/zoo/pipeline/inference/InferenceModel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190827.185601-27.jar!/com/intel/analytics/zoo/pipeline/inference/JTensor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190827.185601-27.jar!/com/intel/analytics/zoo/common/NNContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="82" selection-start-line="12" selection-start-column="70" selection-end-line="12" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190827.185601-27.jar!/com/intel/analytics/zoo/pipeline/inference/AbstractInferenceModel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="52" column="106" selection-start-line="52" selection-start-column="106" selection-end-line="52" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/tianchi/garbage_image_util/1.0-SNAPSHOT/garbage_image_util-1.0-SNAPSHOT.jar!/com/alibaba/tianchi/garbage_image_util/ConfigConstant.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190827.185601-27-sources.jar!/com/intel/analytics/zoo/pipeline/inference/JTensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/awt/image/Raster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22980">
+          <caret line="1600" column="19" selection-start-line="1600" selection-start-column="19" selection-end-line="1600" selection-end-column="19" />
+          <folding>
+            <element signature="e#61077#61078#0" expanded="true" />
+            <element signature="e#61108#61109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190827.185601-27-sources.jar!/com/intel/analytics/zoo/common/NNContext.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/garbageClassfication/ImagePreProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="57" column="65" lean-forward="true" selection-start-line="57" selection-start-column="65" selection-end-line="57" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190827.185601-27-sources.jar!/com/intel/analytics/zoo/pipeline/inference/AbstractInferenceModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="86" column="11" selection-start-line="86" selection-start-column="11" selection-end-line="86" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190827.185601-27-sources.jar!/com/intel/analytics/zoo/pipeline/inference/InferenceModel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-369">
+          <caret line="441" column="55" selection-start-line="441" selection-start-column="55" selection-end-line="441" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190827.185601-27-sources.jar!/com/intel/analytics/zoo/pipeline/inference/InferenceModelFactory.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="100" column="39" lean-forward="true" selection-start-line="100" selection-start-column="39" selection-end-line="100" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-20190827.185601-27-sources.jar!/com/intel/analytics/zoo/pipeline/inference/OpenVinoInferenceSupportive.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="464" column="19" selection-start-line="464" selection-start-column="8" selection-end-line="464" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/garbageClassfication/StreamingJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="79" column="9" lean-forward="true" selection-start-line="79" selection-end-line="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean package -Dmaven.test.skip=True" />
+    <option value="clean package" />
+    <option value="clean build" />
+  </component>
+</project>
